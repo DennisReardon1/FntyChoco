@@ -1,2 +1,2 @@
 "# FntyChoco" 
-Requires extracting the library folder before inserting into github
+Requires extracting the library folder before viewing in unity
