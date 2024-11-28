@@ -1,3 +1,4 @@
-Fantasy Chocolate 2D project
+Fantasy Chocolate 2D project by Dennis Reardon
 _____________________________
-Requires extracting the library folder using 7zip before importing into unity, but scripts are still viewable from here.
+
+Make Fantastical Chocolate for your various monster customers using your magical tome to poof them into existance. can you provide the perfect chocolate to all your customers?
